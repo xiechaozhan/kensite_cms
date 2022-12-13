@@ -40,7 +40,7 @@
 		<poi.version>3.9</poi.version>
 		<freemarker.version>2.3.20</freemarker.version>
 		<lucene.version>5.3.1</lucene.version><!-- 4.0.0 -->
-		<drools.version>6.3.0.Final</drools.version>
+		<drools.version>7.45.0.Final</drools.version>
 		<quartz.version>2.2.1</quartz.version>
 		<cxf.version>3.1.10</cxf.version>
 		
