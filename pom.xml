@@ -678,7 +678,7 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20150729</version>
+			<version>20231013</version>
 		</dependency>
 		
 		<!-- 极光推送 -->
